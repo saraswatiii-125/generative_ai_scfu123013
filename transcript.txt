@@ -1,6 +1,0 @@
-Rahul: We need to finish the website testing before Friday.
-Priya: I will handle the frontend testing.
-Rahul: Good. We also need someone to prepare the deployment documentation.
-Amit: I can prepare the documentation.
-Priya: Can we deploy the application next Monday?
-Rahul: Yes, let's target Monday for deployment.
