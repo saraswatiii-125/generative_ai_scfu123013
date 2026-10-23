@@ -1,0 +1,5 @@
+python -m venv myenv
+for activate enviroment
+.\myenv\Scripts\activate
+
+pip install langchain groq
